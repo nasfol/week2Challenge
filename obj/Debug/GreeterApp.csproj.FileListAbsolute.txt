@@ -1,0 +1,7 @@
+C:\Users\adegb\source\repos\Handsonsolution\GreeterApp\bin\Debug\GreeterApp.exe.config
+C:\Users\adegb\source\repos\Handsonsolution\GreeterApp\bin\Debug\GreeterApp.exe
+C:\Users\adegb\source\repos\Handsonsolution\GreeterApp\bin\Debug\GreeterApp.pdb
+C:\Users\adegb\source\repos\Handsonsolution\GreeterApp\obj\Debug\GreeterApp.csprojAssemblyReference.cache
+C:\Users\adegb\source\repos\Handsonsolution\GreeterApp\obj\Debug\GreeterApp.csproj.CoreCompileInputs.cache
+C:\Users\adegb\source\repos\Handsonsolution\GreeterApp\obj\Debug\GreeterApp.exe
+C:\Users\adegb\source\repos\Handsonsolution\GreeterApp\obj\Debug\GreeterApp.pdb
